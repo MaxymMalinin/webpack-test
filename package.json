@@ -7,8 +7,7 @@
     "start": "webpack serve",
     "build-dev": "webpack",
     "build-prod": "webpack --node-env=production",
-    "push-to-GitHub": "gh-pages -d dist",
-    "clear": "rd /s /q dist"
+    "push-to-GitHub": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
