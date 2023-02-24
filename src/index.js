@@ -1,4 +1,3 @@
-import './index.html';
 import './index.scss';
 import { multiply, sum } from './modules/calc';
 
